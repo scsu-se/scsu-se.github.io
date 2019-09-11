@@ -10,8 +10,8 @@
 ## + Who are we?
 - Student Organization of Software Engineers
 - Located in `ECC 102e`
-- Meet weekly on Tuesdays, 12 - 1:30pm
-- Host workshops
+- Meet weekly on `Tuesdays, 12 - 1:30pm`
+- Host `Workshops` and collaborative projects 
 - We strive to
 	- Grow a Culture of Self Learning 
 	- Create Meaningful Partnerships and Projects 
