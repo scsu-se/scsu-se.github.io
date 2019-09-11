@@ -1,13 +1,15 @@
 # SOSE Club Home Page
 
-> Making software is easy. 
-> Making it well is hard. 
-> Making it together is even harder. 
+- Making software is easy. 
+- Making it well is hard. 
+- Making it together is even harder. 
+
 > Train with us in collaboration.
 
 
 ## Who are we?
 - Student Organization of Software Engineers
+- Located in `ECC 102e`
 - We strive to
 	- Grow a Culture of Self Learning 
 	- Create Meaningful Partnerships and Projects 
