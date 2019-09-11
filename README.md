@@ -10,6 +10,8 @@
 ## + Who are we?
 - Student Organization of Software Engineers
 - Located in `ECC 102e`
+- Meet weekly on Tuesdays, 12 - 1:30pm
+- Host workshops
 - We strive to
 	- Grow a Culture of Self Learning 
 	- Create Meaningful Partnerships and Projects 
@@ -24,6 +26,26 @@
 </html>
 
 
+
+
+
+## + Workshops
+
+### 9/17 - General Introduction Meeting
+
+- This is for getting a sense of who we are and who you want to become
+
+
+### 9/24 - Introduction to Data Science and Python
+
+- Kyle Knudson takes on a romp through the cutting edge of scripting languages Python
+
+
+### 10/01 - Resume and Job Fair Prep
+
+- The Job Fair is Wednesday, October 2nd. Come prepare with us!
+
+
 ## + Announcements
 
 ### Snacks are back!
@@ -34,23 +56,5 @@ Stop by `ECC 102e` if you're hankering for some snacks!
 ### September has started!
 
 > Now that September has started, so too will our weekly workshops and meetings. 
-
-
-9/17 - General Introduction Meeting
-
-- This is for getting a sense of who we are and who you want to become
-
-
-9/24 - Introduction to Data Science and Python
-
-- Kyle Knudson takes on a romp through the cutting edge of scripting languages Python
-
-
-10/01 - Resume and Job Fair Prep
-
-- The Job Fair is Wednesday, October 2nd. Come prepare with us!
-
-
-
 
 ## Coming Soon...
