@@ -7,7 +7,7 @@
 > Train with us in collaboration.
 
 
-## Who are we?
+## + Who are we?
 - Student Organization of Software Engineers
 - Located in `ECC 102e`
 - We strive to
@@ -15,14 +15,21 @@
 	- Create Meaningful Partnerships and Projects 
 	- Plan For and Execute Success in Academia and Beyond
 
-## Intro Survey
+## + Surveys
+
+### Event Interest Survey
 
 <html>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSexFNvO_XONfWyce429YR5AnNB6hRnzxl0-SACJSj5leUy2dA/viewform?embedded=true" width="640" height="1022" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </html>
 
 
-## Announcements
+## + Announcements
+
+### Snacks are back!
+
+Stop by `ECC 102e` if you're hankering for some snacks!
+
 
 ### September has started!
 
