@@ -29,17 +29,17 @@
 
 9/17 - General Introduction Meeting
 
-> This is for getting a sense of who we are and who you want to become
+- This is for getting a sense of who we are and who you want to become
 
 
 9/24 - Introduction to Data Science and Python
 
-> Kyle Knudson takes on a romp through the cutting edge of scripting languages Python
+- Kyle Knudson takes on a romp through the cutting edge of scripting languages Python
 
 
 10/01 - Resume and Job Fair Prep
 
-> The Job Fair is Wednesday, October 2nd. Come prepare with us!
+- The Job Fair is Wednesday, October 2nd. Come prepare with us!
 
 
 
