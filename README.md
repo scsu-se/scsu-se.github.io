@@ -1,1 +1,9 @@
-# scsu-se.github.io
+# SOSE Club Home Page
+
+## Surveys
+
+
+## Announcements
+
+
+### Coming Soon...
