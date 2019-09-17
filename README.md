@@ -6,8 +6,10 @@
 
 > Train with us in collaboration.
 
+## + General Information
 
-## + Who are we?
+### Who are we?
+
 - Student Organization of Software Engineers
 - Located in `ECC 102e`
 - Meet weekly on `Tuesdays, 12:15pm - 1:30pm`
@@ -16,6 +18,10 @@
 	- Grow a Culture of Self Learning 
 	- Create Meaningful Partnerships and Projects 
 	- Plan For and Execute Success in Academia and Beyond
+	
+### Degree Map (Jan 2019)
+
+<iframe src="https://drive.google.com/file/d/1LhqDNUraXqqdPuRsb8Pgd9Y2biP-UG0i/preview" width="640" height="480"></iframe>
 
 ## + Surveys
 
