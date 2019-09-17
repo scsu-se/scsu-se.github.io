@@ -35,7 +35,7 @@
 
 ## + Workshops
 
-### 9/24 - Resumes Preparations
+### 9/24 - Job Fair Preparations
 
 - The Job Fair is Wednesday, October 2nd. Come prepare your resumes and job fair etiquette with us!
 
