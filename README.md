@@ -52,5 +52,8 @@
 
 Stop by `ECC 102e` if you're hankering for some snacks!
 
+### Job Fair coming 10/02
+
+Are you prepared? Have you researched your companies? 
 
 ## Coming Soon...
