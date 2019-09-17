@@ -42,11 +42,6 @@
 
 ## + Workshops
 
-### 9/17 - General Introduction Meeting
-
-- This is for getting a sense of who we are and who you want to become
-
-
 ### 9/24 - Resumes Preparations
 
 - The Job Fair is Wednesday, October 2nd. Come prepare your resumes and job fair etiquette with us!
