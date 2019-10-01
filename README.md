@@ -19,6 +19,10 @@
 	- Create Meaningful Partnerships and Projects 
 	- Plan For and Execute Success in Academia and Beyond
 	
+## + Resources
+### 10/01 Interview Workshop
+- List of companies to look into
+
 ### Degree Map (Jan 2019)
 
 <html>
@@ -27,23 +31,10 @@
 
 ## + Surveys
 
-### Optum Event Survey
-
-<html>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfOzd8msoliDzBkcDKmhpGRhBJREiDpbNtmw4zh_mFHY0MQuA/viewform?embedded=true" width="640" height="1225" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-</html>
+`...`
 
 ## + Workshops
-
-### 9/24 - Job Fair Preparations
-
-- The Job Fair is Wednesday, October 2nd. Come prepare your resumes and job fair etiquette with us!
-
-
-### 10/01 - Interview Preparations
-
-- Come around to practice for interviews and work on soft skills for the job fair tomorrow.
-
+`...`
 
 
 ## + Announcements
@@ -54,6 +45,9 @@ Stop by `ECC 102e` if you're hankering for some snacks!
 
 ### Job Fair coming 10/02
 
-Are you prepared? Have you researched your companies? 
+- Are you prepared? Have you researched your companies? 
 
-## Coming Soon...
+
+
+
+
