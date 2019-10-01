@@ -26,13 +26,14 @@
 	 - RBC - Andrew 
 	 - Optum - Kyle & Caleb :) 
 	 - GeoComm - Grant round 2 
-	 - SogetiUSA
+	 - SogetiUSA *
 	 - CHR *
 	 - Emerson *
  - Link to PowerPoint prepping for interviews [HERE](https://docs.google.com/presentation/d/1W546HdErPJ653AfJDIzm424gA3gFx8Tz4pNrucYa7lo/edit#slide=id.p)
 
-### Degree Map (Jan 2019)
+### Degree Map
 
+**Last Updated Jan 2019**
 <html>
 <iframe src="https://drive.google.com/file/d/1LhqDNUraXqqdPuRsb8Pgd9Y2biP-UG0i/preview" width="640" height="480"></iframe>
 </html>
