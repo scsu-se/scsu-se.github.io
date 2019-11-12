@@ -20,24 +20,24 @@
 	- Plan For and Execute Success in Academia and Beyond
 	
 ## + Resources
-**Job Fair**
- - List of companies to look into
-	- Protolabs - Grant
-	 - RBC - Andrew 
-	 - Optum - Kyle & Caleb :) 
-	 - GeoComm - Grant round 2 
-	 - SogetiUSA *
-	 - CHR *
-	 - Emerson *
- - Link to PowerPoint prepping for interviews [HERE](https://docs.google.com/presentation/d/1W546HdErPJ653AfJDIzm424gA3gFx8Tz4pNrucYa7lo/edit#slide=id.p)
 
-**Degree Map**
+**Degree Maps**
+- Track A - Starting with Calculus and CS 1: [Trello Board](https://trello.com/c/DQu5u0cQ/19-track-a-starting-with-calculus-and-cs-1)
+- Track B - Starting with Pre-Calc and CS 0: [Trello Board](https://trello.com/c/qTxvsR3S/6-track-b-starting-with-pre-calc-and-cs-0)
+
+
+**Degree Requirements**
 
 *Last Updated Jan 2019*
 <html>
 <iframe src="https://drive.google.com/file/d/1LhqDNUraXqqdPuRsb8Pgd9Y2biP-UG0i/preview" width="640" height="480"></iframe>
 </html>
 
+**Job Fair**
+
+ - Link to PowerPoint prepping for interviews [HERE](https://docs.google.com/presentation/d/1W546HdErPJ653AfJDIzm424gA3gFx8Tz4pNrucYa7lo/edit#slide=id.p)
+ 
+ 
 ## + Surveys
 
 `...`
@@ -52,9 +52,6 @@
 
 Stop by `ECC 102e` if you're hankering for some snacks!
 
-**Job Fair coming 10/02**
-
-- Be prepared and research your companies. Remember to be honest and to tell a story!
 
 
 
